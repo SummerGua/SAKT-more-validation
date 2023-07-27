@@ -47,8 +47,7 @@ And different last answers(i.e. the ground truths) won't change the result, whic
 
 ## Reference:
 
-- *Pandey, Shalini, and George Karypis. "A self-attentive model for knowledge tracing." arXiv preprint arXiv:1907.06837 (2019).*
-- [A Self-Attentive Model for Knowledge Tracing](https://arxiv.org/abs/1907.06837) - main reference
+- *Pandey, Shalini, and George Karypis. "A self-attentive model for knowledge tracing." arXiv preprint arXiv:1907.06837 (2019).* - main reference
 - https://github.com/jdxyw/deepKT - main reference
 - *Ghodai Abdelrahman, Qing Wang, and Bernardo Nunes. "Knowledge Tracing: A Survey". ACM Comput. Surv. 55, 11, Article 224 (2023), 37 pages.*
 - https://github.com/arshadshk/SAKT-pytorch
